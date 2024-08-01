@@ -23,7 +23,7 @@
 -	Due to limited data from 2006 to 2016 it is hard to analyse
 the sales of movies.
 8. Conclusion:
--	The movie sales domain is a constantly changing and complex environment, with numerous factors interacting to shape the final results. It takes a strategic, flexible, and data-driven approach to successfully navigate the obstacles and seize opportunities in this  industry.
+-	The movie sales domain is a constantly changing and complex environment, with numerous factors interacting to shape the final results. It takes a strategic, flexible, and data-driven approach to successfully navigate the obstacles and seize opportunities in this industry.
 
 ![DashBorad](https://github.com/VishwaradhyaPoddar/Movie-Sales-PowerBi-Dashboard/assets/147502552/f7249ab5-a31a-4e27-9905-1e0f3543b49b)
 
